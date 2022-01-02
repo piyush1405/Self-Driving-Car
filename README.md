@@ -22,7 +22,7 @@ You need to have installed following softwares and libraries in your machine bef
     * pip install opencv-python
 
 ## Authors
-•	Gaurav Sharma - Complete work  
+•	Piyush, Sita - Complete work  
 
 ## Acknowledgments
 •	Applied AI Course
